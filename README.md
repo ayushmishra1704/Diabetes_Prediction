@@ -14,3 +14,13 @@ To access your flask application open new tab in and paste the url:
 ```
 https://{your_url}.pwskills.app:5000/
 ```
+# ML_Project_2
+# ML_Project_3
+# ML_Project_2
+# ML_Project_2
+# ML_Project_2
+# dcp-oct15
+# dcp-oct15
+# Diabetes_Prediction
+# Diabetes_Prediction
+# Diabetes_Prediction
